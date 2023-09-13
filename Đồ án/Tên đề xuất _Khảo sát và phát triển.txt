@@ -1,0 +1,35 @@
+Tên đề xuất: _Khảo sát và phát triển ứng dụng phát hiện và ngăn chặn botnet thông qua phương pháp Reinforcement Learning_
+
+I. Mục tiêu và phạm vi đề xuất
+
+Trong bài báo "Crafting Adversarial Example to Bypass Flow & ML based Botnet Detector via RL" (https://dl.acm.org/doi/fullHtml/10.1145/3471621.3471841), các tác giả tiến hành nghiên cứu về việc tạo ra các mẫu đối kháng để vượt qua hệ thống phát hiện botnet dựa trên luồng và học máy thông qua phương pháp Reinforcement Learning (RL). Mục tiêu của đề xuất này là khảo sát các nghiên cứu liên quan, phương pháp thực hiện, dataset và kết quả của bài báo đặc biệt quan trọng hướng tới ứng dụng trong lĩnh vực an toàn thông tin.
+
+II. Nội dung đề xuất
+
+1. Khảo sát các nghiên cứu liên quan đến động lực/vấn đề của bài toán trong bài báo:
+- Nghiên cứu về botnet và các phương pháp phát hiện botnet hiện nay.
+- Đánh giá tính hiệu quả của các hệ thống phát hiện botnet dựa trên luồng và học máy.
+- Xem xét các nghiên cứu về việc ứng dụng Reinforcement Learning trong lĩnh vực an toàn thông tin.
+
+2. Nghiên cứu phương pháp thực hiện có trongbài báo:
+- Tìm hiểu về phương pháp Reinforcement Learning và các giải thuật liên quan.
+- Nghiên cứu mô hình đối kháng được sử dụng để tạo ra các mẫu đối kháng.
+- Phân tích chi tiết các thành phần của mô hình RL trong bài báo, bao gồm môi trường, hành động, trạng thái và phần thưởng.
+
+3. Tập dataset sử dụng của bài báo và kết quả bài báo:
+- Giới thiệu về tập dữ liệu CTU-13, được sử dụng trong bài báo để đánh giá hiệu quả của mô hình RL.
+- Đánh giá kết quả của mô hình RL trong việc tạo ra các mẫu đối kháng và đánh bại các hệ thống phát hiện botnet hiện nay.
+
+4. Hướng tới ứng dụng trong một lĩnh vực trong an toàn thông tin hướng đến trong bài báo:
+- Ứng dụng phương pháp RL trong việc phát hiện, ngăn chặn và khắc phục các botnet.
+- Nâng cao tính hiệu quả và độ chính xác của các hệ thống phát hiện botnet dựa trên luồng và học máy.
+- Đề xuất các giải pháp và hướng đi mới cho các nghiên cứu liên quan đến an toàn thông tin, nhằm đảm bảo tính bảo mật cho mạng lưới thông tin trong tương lai.
+
+III. Phương pháp thực hiện
+
+Để tiến hành nghiên cứu, chúng ta sẽ thực hiện các bước sau:
+1. Thu thập và đánh giá các tài liệu liên quan đến đề tài nghiên cứu.
+2. Phân tích và tổng hợp các phương pháp, dataset và kết quả của bài báo.
+3. Ứng dụng và thử nghiệm các phương pháp trong bài báo vào các bài toán thực tế để đánh giá tính khả thi và hiệu quả.
+4. Đề xuất và thực hiện các phương án cải tiến và nâng cao hiệu quả của hệ thống phát hiện botnet dựa trên kết quả thu được từ bài báo.
+5. Tổng hợp kết quả nghiên cứu và đưa ra đánh giá tổng quát về đề tài.
